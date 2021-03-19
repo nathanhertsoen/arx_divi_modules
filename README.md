@@ -668,4 +668,6 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 
 Personnal Sheet
 - Do not use PHP Intelephense on VSCode while you are developing Divi modules.
+![bug2](https://user-images.githubusercontent.com/48366666/111787333-1b1dc900-88bf-11eb-8b07-bb7e4ff46e48.PNG)
+
 
